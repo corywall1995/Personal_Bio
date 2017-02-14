@@ -25,3 +25,23 @@ h2 {
   font-weight: lighter;
   color: yellow;
 }
+
+.half_page {
+  float: left;
+  width: 50%;
+}
+
+.quarter_page {
+  float: left;
+  width: 25%;
+}
+
+a {
+  color: lightblue;
+}
+
+img {
+  padding:2px;
+  border:2px solid #021a40;
+  background-color:#d6d6c2;
+}
