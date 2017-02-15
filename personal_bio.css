@@ -1,15 +1,19 @@
 body {
-  background-image: url(http://www.designyourway.net/diverse/darkpat/COLOURlovers.com-Grey_Background.jpg);
-  color: white;
-  font-size: 14px;
+  background-image: url(http://www.designbolts.com/wp-content/uploads/2013/02/Light-aluminum-Grey-Seamless-Pattern-For-Website-Background.jpg);
+  color: black;
+  font-size: 15px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 
 div {
-  color: white;
+  color: black;
 }
 
 p {
   font-family: "Arial", sans-serif;
+  margin-right: 25px;
 }
 
 h1 {
@@ -23,7 +27,7 @@ h2 {
   font-size: 2.2em;
   text-decoration: underline;
   font-weight: lighter;
-  color: yellow;
+  color: #669999;
 }
 
 .half_page {
@@ -37,11 +41,23 @@ h2 {
 }
 
 a {
-  color: lightblue;
+  color: purple;
 }
 
 img {
   padding:2px;
   border:2px solid #021a40;
   background-color:#d6d6c2;
+  width: 15vw;
+  height: auto;
+}
+
+#indent {
+  margin-left: 30px;
+}
+
+figcaption{
+  font-size: 12px;
+  width: 15vw;
+  height: auto;
 }
