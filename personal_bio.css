@@ -56,7 +56,7 @@ img {
 #caption {
   text-align: center;
   font-size: 12px;
-  width: 15vw;
+  width: 17vw;
   height: auto;
 }
 
@@ -69,12 +69,22 @@ span:hover {
 }
 
 .footer {
-       position: fixed;
-       text-align: center;
-       bottom: 0px;
-       width: 100%;
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
   }
 
   div.footer > p {
     font-size: 10px;
+  }
+
+  p::first-letter {
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: serif;
+  }
+
+a:hover {
+    background-color: #e6ffff;
   }
