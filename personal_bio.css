@@ -1,3 +1,4 @@
+/* Author: Cory Wall */
 body {
   background-image: url(http://www.designbolts.com/wp-content/uploads/2013/02/Light-aluminum-Grey-Seamless-Pattern-For-Website-Background.jpg);
   color: black;
@@ -79,15 +80,15 @@ span:hover {
   width: 100%;
   }
 
-  div.footer > p {
-    font-size: 10px;
-  }
+div.footer > p {
+  font-size: 10px;
+}
 
-  p::first-letter {
-    font-size: 25px;
-    font-weight: lighter;
-    font-family: serif;
-  }
+p::first-letter {
+  font-size: 25px;
+  font-weight: lighter;
+  font-family: serif;
+}
 
 a:hover {
   color: #990000;
